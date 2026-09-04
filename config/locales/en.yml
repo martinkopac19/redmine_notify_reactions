@@ -1,0 +1,9 @@
+en:
+  nr_setting_enabled: "Notify the author when somebody likes their issue or comment"
+  nr_settings_hint: "Redmine 6 lets people give a thumbs up to an issue, a comment, a forum post or a news item, but tells nobody about it. With this on, the author gets a short e-mail. Liking your own thing sends nothing, and people whose profile says \"No events\" get nothing."
+  nr_reactions_disabled: "Reactions are switched off in Administration → Settings → Display, so there is nothing to notify about."
+  nr_what_issue: "your issue #%{id}"
+  nr_what_journal: "your comment on issue #%{id}"
+  nr_what_message: "your forum post"
+  nr_what_news: "your news item"
+  nr_what_comment: "your comment on a news item"

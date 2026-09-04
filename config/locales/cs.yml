@@ -1,0 +1,9 @@
+cs:
+  nr_setting_enabled: "Upozornit autora, když někdo lajkne jeho úkol nebo komentář"
+  nr_settings_hint: "Redmine 6 umožňuje dát palec nahoru úkolu, komentáři, příspěvku ve fóru nebo novince, ale nikomu o tom neřekne. Se zapnutým pluginem přijde autorovi krátký e-mail. Za lajk sobě samému se nic neposílá a kdo má v profilu „Žádné e-maily“, nedostane nic."
+  nr_reactions_disabled: "Reakce jsou vypnuté v Administration → Settings → Display, takže není o čem informovat."
+  nr_what_issue: "váš úkol #%{id}"
+  nr_what_journal: "váš komentář k úkolu #%{id}"
+  nr_what_message: "váš příspěvek ve fóru"
+  nr_what_news: "vaše novinka"
+  nr_what_comment: "váš komentář k novince"

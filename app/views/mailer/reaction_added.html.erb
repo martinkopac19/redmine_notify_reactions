@@ -1,0 +1,7 @@
+<p>👍 <strong><%= h @reaction.user.name %></strong> — <%= h @what %></p>
+
+<h1><%= link_to(h(@title), @url) %></h1>
+
+<% if @excerpt.present? %>
+<blockquote><%= h @excerpt %></blockquote>
+<% end %>
