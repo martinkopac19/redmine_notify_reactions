@@ -1,0 +1,9 @@
+hu:
+  nr_setting_enabled: "A szerző értesítése, ha valaki kedveli a feladatát vagy a megjegyzését"
+  nr_settings_hint: "A Redmine 6-ban egy feladatot, megjegyzést, fórumbejegyzést vagy hírt fel lehet ruházni egy felfelé mutató hüvelykujjal, de erről senki sem kap értesítést. Bekapcsolva a szerző rövid e-mailt kap. A saját tartalom kedveléséről nem megy értesítés, és akiknek a profiljában „Semilyen eseményről” van beállítva, nem kapnak semmit."
+  nr_reactions_disabled: "A reakciók ki vannak kapcsolva az Adminisztráció → Beállítások → Megmutat oldalon, így nincs miről értesíteni."
+  nr_what_issue: "az Ön feladata: #%{id}"
+  nr_what_journal: "az Ön megjegyzése (#%{id} feladat)"
+  nr_what_message: "az Ön fórumbejegyzése"
+  nr_what_news: "az Ön híre"
+  nr_what_comment: "az Ön megjegyzése egy hírhez"

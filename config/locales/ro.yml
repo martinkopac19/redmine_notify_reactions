@@ -1,0 +1,9 @@
+ro:
+  nr_setting_enabled: "Notifică autorul când cineva îi apreciază tichetul sau comentariul"
+  nr_settings_hint: "Redmine 6 permite aprecierea (degetul mare) unui tichet, unui comentariu, unui mesaj de forum sau a unei știri, dar nu anunță pe nimeni. Cu această opțiune activată, autorul primește un e-mail scurt. Aprecierea propriului conținut nu trimite nimic, iar persoanele care au în profil „No events” nu primesc nimic."
+  nr_reactions_disabled: "Reacțiile sunt dezactivate în Administrare → Setări → Afișează, deci nu există nimic de notificat."
+  nr_what_issue: "tichetul dumneavoastră #%{id}"
+  nr_what_journal: "comentariul dumneavoastră la tichetul #%{id}"
+  nr_what_message: "mesajul dumneavoastră de pe forum"
+  nr_what_news: "știrea dumneavoastră"
+  nr_what_comment: "comentariul dumneavoastră la o știre"

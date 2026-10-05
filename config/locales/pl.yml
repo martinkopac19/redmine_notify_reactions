@@ -1,0 +1,9 @@
+pl:
+  nr_setting_enabled: "Powiadamiaj autora, gdy ktoś polubi jego zagadnienie lub komentarz"
+  nr_settings_hint: "Redmine 6 pozwala dać kciuk w górę zagadnieniu, komentarzowi, wpisowi na forum lub komunikatowi, ale nikogo o tym nie informuje. Po włączeniu autor dostaje krótki e-mail. Polubienie własnej treści niczego nie wysyła, a osoby, które mają w profilu ustawione „Brak powiadomień”, nie dostają nic."
+  nr_reactions_disabled: "Reakcje są wyłączone w Administracja → Ustawienia → Wygląd, więc nie ma o czym powiadamiać."
+  nr_what_issue: "Twoje zagadnienie #%{id}"
+  nr_what_journal: "Twój komentarz do zagadnienia #%{id}"
+  nr_what_message: "Twój wpis na forum"
+  nr_what_news: "Twój komunikat"
+  nr_what_comment: "Twój komentarz do komunikatu"
